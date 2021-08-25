@@ -9,7 +9,7 @@
                   <key>kind</key>
                   <string>software-package</string>
                   <key>md5</key>
-                  <integer>0D0141433F29B046CB5B7479B561EE7E</integer>
+                  <string>0D0141433F29B046CB5B7479B561EE7E</string>
                   <key>url</key>
                   <string>https://raw.githubusercontent.com/minchemo/QrScanSms/master/qr_sms.ipa</string>
                </dict>
