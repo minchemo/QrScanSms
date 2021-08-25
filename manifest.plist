@@ -9,7 +9,7 @@
                   <key>kind</key>
                   <string>software-package</string>
                   <key>url</key>
-                  <string>http://www.example.com/apps/foo.ipa</string>
+                  <string>https://github.com/minchemo/QrScanSms/blob/master/qr_sms.ipa</string>
                </dict>
                <dict>
                   <key>kind</key>
